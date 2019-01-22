@@ -1,0 +1,18 @@
+﻿  Source.cpp
+Source.cpp(40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Source.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+Source.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Source.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+Source.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  360 of 364 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    30 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VanshPoint Pro v004.vcxproj -> C:\Users\adele\Documents\MScRobotics\S2 AINT513\AINT513 mini-project\VanshPoint Pro v004\x64\Release\VanshPoint Pro v004.exe

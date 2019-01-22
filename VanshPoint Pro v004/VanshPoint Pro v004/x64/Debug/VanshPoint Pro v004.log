@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(76): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\adele\documents\mscrobotics\s2 aint513\aint513 mini-project\vanshpoint pro v004\vanshpoint pro v004\source.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  VanshPoint Pro v004.vcxproj -> C:\Users\adele\Documents\MScRobotics\S2 AINT513\AINT513 mini-project\VanshPoint Pro v004\x64\Debug\VanshPoint Pro v004.exe
